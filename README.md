@@ -45,7 +45,7 @@ Moreover, [here is a greate tutorial](https://stackoverflow.com/questions/219552
 4. Enjoy
 
 ### Screenshots
-![Image 1](images/Image 1.png)
+![Image 1](images/"Image 1.png")
 
 
 ### Acknowledgments
