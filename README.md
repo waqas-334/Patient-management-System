@@ -46,6 +46,10 @@ Moreover, [here is a greate tutorial](https://stackoverflow.com/questions/219552
 
 ### Screenshots
 <img align="center" alt="PNG" src="https://github.com/waqas-334/Patient-management-System/blob/main/images/Image%201.png" width="320" height="320" />
+<img align="center" alt="PNG" src="https://github.com/waqas-334/Patient-management-System/blob/main/images/Image%202.png" width="320" height="320" />
+<img align="center" alt="PNG" src="https://github.com/waqas-334/Patient-management-System/blob/main/images/Image%203.png" width="320" height="320" />
+<img align="center" alt="PNG" src="https://github.com/waqas-334/Patient-management-System/blob/main/images/Image%204.png" width="320" height="320" />
+<img align="center" alt="PNG" src="https://github.com/waqas-334/Patient-management-System/blob/main/images/Image%205.png" width="320" height="320" />
 
 
 
